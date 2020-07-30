@@ -28,7 +28,7 @@ var projectListTwo = [
  	"<hr>",
  	"<div><a href='https://public.tableau.com/profile/daniel.bradley1709#!/vizhome/citi_bike_public/Story?publish=yes' target='_blank'>Tableau-Challenge</a></div>",
  	"<div><a href='https://github.com/87danielbradley/machine-learning-challenge' target='_blank'>Machine Learning Challenge WIP</a></div>",
- 	"<div><a href='https://github.com/87danielbradley/Big-Data-Challenge' target='_blank'>CSS Layout/Big Data Challenge WIP</a></div>",
+ 	"<div><a href='https://github.com/87danielbradley/Big-Data-Challenge' target='_blank'>Big Data Challenge WIP</a></div>",
 	"<div><a href='https://github.com/87danielbradley/Data_Science_in_Biotechnology' target='_blank'>Data Science in Biotechnology</a></div>",
 	"<div><a href='https://github.com/87danielbradley/sql-challenge' target='_blank'>SQL Challenge</a></div>",
 	"<div><a href='https://github.com/87danielbradley/VBA-challenge/blob/master/VBAStocks/Stock%20Data/VBA_Macro.bas' target='_blank'>VBA Challenge</a></div>",
